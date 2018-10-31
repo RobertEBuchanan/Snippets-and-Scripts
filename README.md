@@ -1,2 +1,2 @@
 # Snippets-and-Scripts
-Something
+Place to put short scripts and snippets that are not related to a project.
